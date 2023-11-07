@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "playwright": "^1.39.0"
+  },
+  "version": "1.0.0",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "typescript": "^5.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Paulina Ciesielska",
+  "license": "ISC",
+  "description": "Recruitment task",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaCisdev/Playwright.git"
+  }
+
+}
